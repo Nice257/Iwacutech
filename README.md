@@ -1,2 +1,2 @@
 # Iwacutech
-projet sur Open source
+Open source projects with Bitdev Gitega
